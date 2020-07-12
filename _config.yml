@@ -1,8 +1,15 @@
 # Site settings
+<<<<<<< HEAD
 title: Spencer Dickson
 description: 'Portfolio of Projects'
 url: 'captcayde.github.io'
 # baseurl: '/jekyll-uno'
+=======
+title: Jekyll-Uno
+description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+url: 'http://joshgerdes.com/jekyll-uno'
+# baseurl: ''
+>>>>>>> 036c6645c0533c70d2b56154fbf34f643e49879c
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
