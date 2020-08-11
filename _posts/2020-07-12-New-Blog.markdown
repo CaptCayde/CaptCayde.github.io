@@ -1,11 +1,14 @@
 ---
-title:  "Meeple Manor Redesign"
+title:  "MeepleManor.com Redesign"
 date:   2020-07-12 15:04:23
 categories: [UX]
 tags: [Case Studies]
 ---
-### Introduction
-#### How I made Meeple Manor the best!
+### Client: MeepleManor.com
+### My Role: Research, Information Architecture, Sketching, Wireframing, UI, Prototyping, Mockups, and Style Guide.
+### Timeframe: 3 weeks
+
+#### How I made Meeple Manor the
 
 Something Not in Latin
 
