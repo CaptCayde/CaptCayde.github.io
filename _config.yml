@@ -1,5 +1,5 @@
 # Site settings
-title: Spencer J Dickson
+title: Spencer Dickson
 description: 'UX Design Portfolio'
 url: 'captcayde.github.io'
 # baseurl: ''
@@ -7,7 +7,7 @@ url: 'captcayde.github.io'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Spencer J Dickson'
+  name: 'Spencer Dickson'
   email: spencerjdickson@gmail.com
   # twitter_username: joshgerdes
   # facebook_username: joshgerdes
