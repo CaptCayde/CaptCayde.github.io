@@ -10,14 +10,16 @@ tags: [Case Studies]
 #### Interviews, Information Architecture, Sketching, Wireframing, UI, Prototyping, Mockups, and Style Guide.
 <br>
 The first challenge I found through usability testing was that the site was hard to navigate and did not look trustworthy.
-
+![mockup](/images/meeple-manor/oldsite.jpg)
 I learned through user interviews how people preferred to buy board games and what sites they would normally go to. I was able to look at what competitors were doing and learned from them what users enjoyed. 
 
+![mockup](/images/meeple-manor/research.jpg)
 I was able to create two user personas from my synthesizing my data. Meet both Mike and Amy.
-
+![mockup](/images/meeple-manor/mike.png)
+![mockup](/images/meeple-manor/amy.jpg)
 They helped me focus my efforts on the main pain points to address in the redesign. The biggest concerns being navigation and information. From there I was ready to start sketching out possible solutions.
-
-I put together a mid-fidelity prototype to text with the site’s users and was able to get valuable feedback about what they expected to see and what they would have liked to see. Here is one of the concerns I focused on.
+![mockup](/images/meeple-manor/setches.jpg)
+I put together a mid-fidelity prototype to test with the site’s users and was able to get valuable feedback about what they expected to see and what they would have liked to see. Here is one of the concerns I focused on.
 
 Catigoring the main page into simple distinct parts gave users an idea on the site’s main purpose eliminating confusion on what the site is for.
 
