@@ -1,48 +1,72 @@
 ---
-title:  "MeepleManor.com Redesign"
+title:  "Meeple Manor Redesign"
 date:   2020-07-12 15:04:23
 categories: [UX]
 tags: [Case Studies]
 ---
-##### Client: MeepleManor.com
-##### Timeframe: 3 weeks
-##### My Role: Interviews, Information Architecture, Sketching, Wireframing, UI, Prototyping, Mockups, and Style Guide.
-<br>
-<br>
+### Adding value through customer research
 
-![mockup](/images/meeple-manor/homefinal.png)
+Meeple Manor is a local store that has an e-commerce site that sells a variety of board games. Their site is meant to help drive their sales and help promote their in-store events.
 
-The first challenge I found through usability testing was that the site was hard to navigate and did not look trustworthy.
+![Intro-pic](/images/meeple-manor/apple.jpg)
+*Redesign of Meeple Manor*
 
-I learned through user interviews how people preferred to buy board games and what sites they would normally go to. I was able to look at what competitors were doing and learned from them what users enjoyed. 
-#### Original Site
 
-![mockup](/images/meeple-manor/oldsite.png)
+### Problem Statement
+<p></p>
 
-#### Research Notes
+#### For Customers
+The primary pain point experienced by customers on this site is its *Information Architecture*. The logical grouping of games did not match the mental model of its patrons. A successful redesign will include improvements to how users find and discover board games.
 
-![mockup](/images/meeple-manor/Research.png)
+#### For the Business
+The business's goal is to highlight their latest products, back in stock items, and their in-store events. These pipelines are their most profitable. Therfore, it's essential that all who vist the site are exposed to this information.
 
-I was able to create two user personas from synthesizing my data. Meet both Mike and Amy.
+![Old Site](/images/meeple-manor/oldsite.png)
+*Original website before redesign*
+
+
+### User Research
+<p></p>
+
+#### Usability Testing
+My first step was to conduct usability studies. I documented a list of tasks that each participant would complete. I planned to track both quantitive success metrics and record observations. I encouraged each tester to *think-aloud* as they went through the series of tasks. Here were some of the more prominent findings:
+
+1. All participants had difficulty finding a specific game.
+2. 60% of participants were unable to find the search bar.
+3. 80% of participants were unable to see when the next Magic event would take place.
+
+![Research img](/images/meeple-manor/Research.png)
+*Some sample research deliverables*
+
+#### Card Sort
+Because the most critical design flaws of the site were related to findability and game categorization, I organized a card sorting exercise. Utilizing a web application called *Optimal Sort*, I distributed the card-sorting survey to a broad group of users with varying levels of board game expertise. This activity yielded the information required to re-map Meeple Manor's IA.
+
 #### Personas
+After synthesizing the data, there were 2 primary personas that emerged...
 
-![mockup](/images/meeple-manor/mike.png)
-![mockup](/images/meeple-manor/amy.png)
+1. **Amy** loves board games for their ability to make social meetups more fun.
+![Persona Amy](/images/meeple-manor/amy.png)
 
-They helped me focus my efforts on the main pain points to address in the redesign. The biggest concerns being navigation and information. From there I was ready to start sketching out possible solutions.
+2. **Mike** is a very experienced board game enthusiast who's always looking for the latest games.
+![Persona Mike](/images/meeple-manor/mike.png)
+
+### UI Redesign
+
 #### Sketches
-![mockup](/images/meeple-manor/sketches.png)
+Instead of going directly to higher-fidelity mocks, I wanted to generate a lot of possible solutions quickly. *Sketching* provides an opportunity to ensure I don't zero in on a solution without considering enough options. Additionally, I brought back previous test participants to take a look at a bunch of potential solutions.
 
-I put together a mid-fidelity prototype to test with the site’s users and was able to get valuable feedback about what they expected to see and what they would have liked to see. Here is one of the concerns I focused on.
+![Sketches](/images/meeple-manor/sketches.png)
+**Initial Sketches**
 
-Framing the categories on the main page into simple distinct parts gave users an idea on the site’s main purpose eliminating confusion on what the site is for.
-#### Categories Addition
-Adding simple filtering options to allow users to find what they need faster and placing game information about player count, the time it takes to play,  and age limitations gave users security in knowing where they were going.
-#### Filter Redesign
-A lot of little but important things were added to the site to bring it up to date with what is expected of a e-commerce site today. Things like breadcrumbs, top bar navigation, and color changes. All to give clear instructions to the user about where they are, where they can go, and how to get back.
-#### Basic function Additions
-The last step on this redesign was being able to deliver a new style guide along with a high-fidelity mock-up to the client of course given more time I would have loved to add more features that every e-commerce site should have like user reviews and a wish list section. But having put only 180 hours into the project I felt good about what I delivered as a great start.
-#### Final Mockup
+#### Wireframes
+When I progressed to wireframing, there were several key areas I knew I wanted to improve about the site. In particular, I was concerned about the presentation of the *calendar* of events. In the original design, it was below the fold, utilizing Google's calendar plugin. The lack of branding and positioning didn't help it stand out and was easily ignored by users. So in the redesign, I wanted a more custom look and prominent position.
+ 
+I also knew that the placement of *search* needed to be more conventional to what customers were used to. Testing showed that most looked for this functionality in the top navigational bar.
+
+![Wireframes](/images/meeple-manor/mocks.png)
+
+#### Final Redesign
+In the final designs, I was really looking to deliver a stronger brand that would be remembered by its visitors. Part of the appeal of a local board game store is the community that is built around sharing a game table. When customers visit the website, it's an extension of that community and builds loyalty to Meeple Manor. Not only should it be simple to use, but when gamers visit, they want to identify with the brand and their community.
 
 ![mockup](/images/meeple-manor/homefinal.png)
 
