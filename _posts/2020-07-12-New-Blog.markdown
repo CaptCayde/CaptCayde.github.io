@@ -1,6 +1,6 @@
 ---
 title:  "Meeple Manor Redesign"
-date:   2020-07-12 15:04:23
+date:   2020-07-27 15:04:23
 categories: [UX]
 tags: [Case Studies]
 ---
@@ -56,7 +56,7 @@ After synthesizing the data, there were 2 primary personas that emerged...
 Instead of going directly to higher-fidelity mocks, I wanted to generate a lot of possible solutions quickly. *Sketching* provides an opportunity to ensure I don't zero in on a solution without considering enough options. Additionally, I brought back previous test participants to take a look at a bunch of potential solutions.
 
 ![Sketches](/images/meeple-manor/sketches.png)
-**Initial Sketches**
+*Initial Sketches*
 
 #### Wireframes
 When I progressed to wireframing, there were several key areas I knew I wanted to improve about the site. In particular, I was concerned about the presentation of the *calendar* of events. In the original design, it was below the fold, utilizing Google's calendar plugin. The lack of branding and positioning didn't help it stand out and was easily ignored by users. So in the redesign, I wanted a more custom look and prominent position.
@@ -64,6 +64,7 @@ When I progressed to wireframing, there were several key areas I knew I wanted t
 I also knew that the placement of *search* needed to be more conventional to what customers were used to. Testing showed that most looked for this functionality in the top navigational bar.
 
 ![Wireframes](/images/meeple-manor/mocks.png)
+*Wireframe Samples*
 
 #### Final Redesign
 In the final designs, I was really looking to deliver a stronger brand that would be remembered by its visitors. Part of the appeal of a local board game store is the community that is built around sharing a game table. When customers visit the website, it's an extension of that community and builds loyalty to Meeple Manor. Not only should it be simple to use, but when gamers visit, they want to identify with the brand and their community.
