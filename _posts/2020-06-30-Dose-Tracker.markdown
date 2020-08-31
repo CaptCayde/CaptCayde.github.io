@@ -9,8 +9,8 @@ image: Dose-Tracker/dawna.png
 
 Dose Tracker is a project I started for a design challenge while studying UX. It is an app that would help people remember to take medications as well as when and if they took them.
 
-![Intro-pic](/images/Dose-Tracker/Frame1.png)
-*Final Mockup*
+![Intro-pic](/images/Dose-Tracker/dosetrackerhero.png)
+
 
 
 ### Problem Statement
@@ -25,11 +25,14 @@ The primary pain point experienced by those who take medication or supplements i
 #### Interviews
 I started interviewing groups of people who have had experience with taking medications for various reasons and the number one issue that came up throughout them all was their inability to stay consistent with taking them.
 
-![Afinnity-Map](/images/Dose-Tracker/infinity map.png)
-*Affinity Map*
-
 #### Affinity Map
 Utilizing an affinity map I saw a lot of trends among the users that I interviewed. They shared pain points and concerns relating to taking their medications daily. I then created two personas to embody those who this app would benefit the most.
+
+![Afinnity-Map](/images/Dose-Tracker/anfinitymap.png)
+*Affinity Map*
+
+#### Personas
+The two personas I created were...
 
 1. **Dawna** is a very busy mother who sometimes forgets the little things
 ![Persona Dawna](/images/Dose-Tracker/dawna.png)

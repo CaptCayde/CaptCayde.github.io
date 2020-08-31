@@ -1,0 +1,12 @@
+---
+title:  "About me"
+date:   2020-08-31 15:04:23 
+categories: []
+tags: []
+---
+
+### Welcome to my portfolio
+
+Hello, my name is Spencer and I’m a Seattle-based UX professional. My passion is in building elegant and helpful designs that solve customer needs. After studying philosophy and art at the University of Washington, I developed an appreciation for the relationship between human nature and well-designed products. People, or more specifically, what drives or motivates them is the key to your app/website/company’s success. As Plato said, “The beginning is the most important part of the work”. So, I’m looking for opportunities to work with teams that consider design at the very forefront. Let’s connect.
+
+![myself](/images/aboutme/myself.png)
