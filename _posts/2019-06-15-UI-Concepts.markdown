@@ -2,12 +2,12 @@
 title:  "UI Concepts"
 date:   2019-06-15 15:04:23 
 categories: []
-tags: []
+tags: [Concept Design]
+image: concepts/routine.png
 ---
-#### Concept Designs
+#### Concept designs
 <br />
 
-Here are a few UI designs I have done to try out new concepts
 
 ![routine](/images/concepts/routine.png)
 *Routine Tracker*
