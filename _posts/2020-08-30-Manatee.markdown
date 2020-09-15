@@ -1,0 +1,100 @@
+---
+title:  "Manatee Mobile App Navigation"
+date:   2020-08-30 15:04:23
+categories: [UX]
+tags: [Case Studies]
+image: manatee/logo.png
+---
+### Designing a well-organized app with easy and thoughtful navigation.
+
+The Manatee mobile app is a child therapy app used by parents, children, and therapists to improve the behavior and habits of children. Parents and therapists can both set goals and give rewards to children while keeping track of their progress. 
+
+![Intro-pic](/images/manatee/logo.png)
+*Manatee Logo*
+
+### Task
+
+My team was asked to design a new way to navigate its existing mobile app and deliver both a Figma and Zeplin file along with a prototype of the new design.
+
+### Problem Statement
+<p></p>
+
+#### For Users
+The current state of the navigation of the app doesn’t match the users’ mental models of where settings are placed. Without guidance, users are frustrated when trying to locate options and tasks to complete. This has lead to many users dropping off during use.
+
+#### For the Business
+The Business’s goal is to redesign the current navigation of the mobile app to better match the users’ mental model. By doing so make the app more sticky to increase user interest.
+
+### User Research
+<p></p>
+
+#### Usability Testing
+To begin this project I was very concerned with what users thought of the current navigation of the app and what made it frustrating. I conducted a series of usability tests with both parents and children having them run through a few tasks on the mobile app:
+
+1. Adding a child
+2. Adding a goal
+3. Adding a reward
+4. Switch to child's view
+
+My findings were that many users were confused with the headings of the different categories in the settings menu. Describing the current app’s hamburger menu as a “drawer with all the clothes shoved into it”. Often the users would just click around into the different sections of the menu until they found what they were looking for. But a few of the options like adding goals were located outside a menu on the home page which caused a few users to give up on the task.
+
+![usability test graphs](/images/manatee/tasks.png)
+*Usability Results*
+
+#### Mapping Out the Site
+Before trying to organize all the different options dividing where they should go I took an inventory of everything within the app. This allowed me to see where everything was and how to get to it from the home page of the app. From there it was about figuring out where everything needs to go.
+
+![site map](/images/manatee/sitemap.png)
+*Site Map*
+
+#### Card Sort & Survey
+The next step was getting an idea of what the mental model was for these users. Using a card sort along with a short survey trends started to arise on how users categorize the different options. With this data, I then looked at similar apps, even though the Manatee child therapy app offers something very unique organization is crucial for every app.
+
+![card sort](/images/manatee/cardsort.png)
+*Card Sort Results*
+
+#### Affinity Map
+This is a standard practice I believe helps in every project to visually see the users’ trends and similarities and build perfect personas to capture the vital issues that need to be addressed. Here are a few key insights:
+
+1. The current app’s hamburger menu was too general with their headings.
+2. Users’ blamed themselves for not finding certain options. 
+3. Users kept scrolling down to the bottom of a page to find something that wasn’t there (footer menu).
+
+![Affinity map](/images/manatee/amap.png)
+*Affinity Map*
+
+#### Personas
+For this project, we needed three different personas. I usually create a least two but with this app because its users base being vast three were needed to explore and develop solutions for a more universal experience.  And because this app was to be used primarily by a family the personas reflected that.
+
+![personas](/images/manatee/personas.png)
+
+#### Sketches
+There are two parts to the UX design process that I believe are crucial to do throughout any given project the first one being user testing and the second sketching out any and all ideas. Sketching is easy, fast, and helps me visualize success in my projects. For the Manatee app, I sketched out a lot of different types of menus and navigation options:
+* Footer menu
+* Top navigation bar
+* Hamburger menus
+* Slider menus
+
+Then testing out these options with users lead us to design both a top navigation menu for account settings and a footer menu for the goals, rewards, and resources.
+
+![Sketches](/images/manatee/sketches.png)
+*Sketches*
+
+
+![new nav](/images/manatee/newnav.png)
+*New Organization*
+
+#### Manatee Brand
+My team and I were given a branding guide that was in a lot of ways still in development. But we followed it as closely as we could while feeling it out where needed. There were many debates throughout the wireframing about how best to use the branding guide. When problems arose I lead the team to try and come to objective truths and achievable goals to meet within our timeframe to ensure that we accomplished what we were assigned.
+
+![mid-fi wireframes](/images/manatee/midwire.png)
+*Wireframes*
+
+#### Mockups
+I worked on the high fidelity mockups keeping their look and feel clean and accessible while keeping to the brand’s standard and building upon what was already established.
+
+![high fidelity](/images/manatee/high.png)
+*Mockups High-Fi*
+
+#### Deliverables
+My team and I were able to deliver high fidelity mockups of our new design for navigating the manatee mobile app with menus that simplified and broke the options down into easily comprehensible categories. All while adhering to the metal model of the users to put things not only in the right places but where the users expected them to be. 

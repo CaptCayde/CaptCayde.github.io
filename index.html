@@ -11,9 +11,8 @@ robots: noindex
         <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
         <p class="excerpt">{{ post.excerpt | strip_html }}&hellip;</p>
         <!--IMAGE FOR POST-->
-        <!--
+        <!-- -->
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl }}/images/{{ post.image }}" height="200"></a>
-        -->
         <div class="post-list__meta">
             <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time>
             {% if post.tags.size > 0 %}

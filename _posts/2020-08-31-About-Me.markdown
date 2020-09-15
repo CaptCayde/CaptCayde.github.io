@@ -3,7 +3,7 @@ title:  "About Me"
 date:   2020-08-31 15:04:23 
 categories: []
 tags: []
-image: aboutme/myself.png
+image: aboutme/sig.png
 ---
 
 ### Welcome to my portfolio
