@@ -1,5 +1,5 @@
 ---
-title:  "Manatee Mobile App Navigation"
+title:  "Manatee Mobile App"
 date:   2020-08-30 15:04:23
 categories: [UX]
 tags: [Case Studies]

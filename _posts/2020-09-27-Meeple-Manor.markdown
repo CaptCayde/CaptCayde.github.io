@@ -1,6 +1,6 @@
 ---
 title:  "Meeple Manor Redesign"
-date:   2020-07-27 15:04:23
+date:   2020-09-27 15:04:23
 categories: [UX]
 tags: [Case Studies]
 image: meeple-manor/apple.jpg
