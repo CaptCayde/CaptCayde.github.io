@@ -111,9 +111,7 @@ While animating my creations was one of the best parts of making the game it cam
 #### Sound Effects
 <p></p>
 
-I used Garageband to create the soundtrack you hear within the game. It features a simulated electric piano and string instruments that I put together on my Ipad. you can download the song here.
-
-<a href="/images/Fire/Fire Knight theme.mp3" download> Fire Knight theme.mp3 </a>
+I used Garageband to create the soundtrack you hear within the game. It features a simulated electric piano and string instruments that I put together on my Ipad. Other sound effects I have for jumping and attacking I got from Freesound.org.
 
 #### Bug Fixes
 <p></p>
