@@ -68,8 +68,8 @@ Even though it was relatively easy to look up lines of code to solve the problem
 #### First Iteration
 <p></p>
 
-![Prototype](/images/Fire/prototype.png)
-*Screen from first Demo*
+![Prototype](/images/Fire/Prototype.png)
+*Screen from first iteration*
 
 After a lot of time and effort, I had a functioning prototype with simple enemies for the player to challenge along with some platforms to jump around on. I showed it to a couple of people and got a lot of feedback and suggestions. The biggest concerns were:
 
@@ -80,8 +80,8 @@ After a lot of time and effort, I had a functioning prototype with simple enemie
 
 A big part of designing anything is testing and iterating. With just a handful of testers, I found out a lot of things that were breaking the game. With everyone that played the game, I found myself always having to show them the controls which for a UX designer when a user doesn’t know what to do it's a big red flag.
 
-![Prototype](/images/Fire/prototype2.png)
-*Screen from first Demo*
+![Prototype](/images/Fire/Prototype2.png)
+*Screen from first iteration*
 
 I decided to go back to square one and start over with everything I had learned. It was hard to move on but I knew my next attempt would be better. I needed better organization, cleaner scripts, and a better color pallet that would make the game pop.
 
@@ -106,8 +106,7 @@ Making a variety of assets with heavy stroke lines gave the game depth making it
 
 While animating my creations was one of the best parts of making the game it came with challenges. I used a method called poppet animation to liven the characters. Since almost everything in the game used fire I was able to stretch and flip around the images to give the fire a burning new look. Check out the video to watch the full demo.
 
-<iframe width="640" height="400" src="https://youtu.be/-Geu3kydzPg">
-</iframe>
+<a href="https://www.youtube.com/watch?v=-Geu3kydzPg&feature=youtu.be">Fire Knight Demo</a>
 
 #### Sound Effects
 <p></p>
