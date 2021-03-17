@@ -11,7 +11,7 @@ image: aboutme/sig.png
 
 My name is Spencer J Dickson, I have lived in Washington most of my life. I studied art and philosophy at the University of Washington. I lived two years in Guatemala helping people while they taught me Spanish. I have three children with a beautiful partner and they mean the world to me. I play lots of board games and video games on the weekend and I write songs and short stories in my spare time. My life is about creating things. 
 
-I hope you have enjoyed poking around my portfolio and I hope what I have done has caught your eye. I try to be more than just a designer of UX, but also a creator. What that means is I try my best to not just solve user problems, but to create the best solutions. I set myself apart from other designers because of my passion for creativity. The design should never be about common solutions and patterns but improving them with each iteration. I want to change conventions, learn new skills, and keep improving along the way. What I need is a team that feels the same way.
+I hope you have enjoyed poking around my portfolio and I hope what I have done has caught your eye. I try to be more than just a designer of UX, but also a creator. What that means is I try my best to not just to solve user problems, but to create the best solutions. I set myself apart from other designers because of my passion for creativity. The design should never be about common solutions and patterns but improving them with each iteration. I want to change conventions, learn new skills, and keep improving along the way. What I need is a team that feels the same way.
 
 Please feel free to connect with me anytime and thank you for visiting my portfolio. 
 

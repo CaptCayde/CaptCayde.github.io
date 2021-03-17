@@ -5,7 +5,7 @@ categories: [UX]
 tags: [Case Studies]
 image: manatee/logo.png
 ---
-### Designing a well-organized app with easy and thoughtful navigation.
+### Designing Easy Navigation.
 
 The Manatee mobile app is a child therapy app used by parents, children, and therapists to improve the behavior and habits of children. Parents and therapists can both set goals and give rewards to children while keeping track of their progress. 
 
@@ -19,7 +19,7 @@ My team was asked to design a new way to navigate its existing mobile app and de
 ### Problem Statement
 <p></p>
 
-#### For Users
+#### For the People
 The current state of the navigation of the app doesn’t match the users’ mental models of where settings are placed. Without guidance, users are frustrated when trying to locate options and tasks to complete. This has lead to many users dropping off during use.
 
 #### For the Business

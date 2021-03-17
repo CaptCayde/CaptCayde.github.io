@@ -5,12 +5,12 @@ categories: [UX]
 tags: [Case Studies]
 image: homedepot/logo.png
 ---
-### Design sprint challenge
+### Design Sprint Challenge
 
 I took part in a team design sprint aimed at integrating Home Depot's DIY web section into their mobile app. I conducted user research and provided sketches and wireframes.
 
 ### Problem Statement
-#### For Customers
+#### For the Customers
 Customers are frustrated with the existing Home Depot app because of its lack of natively supporting DIY projects. When users try  accessing it, the app redirects to a non mobile-friendly version of the website. Integrating Home Depot’s DIY tools into the app would satisfy users by not fragmenting their experience and doing away with tedious desktop-only instructions.
 
 #### For the Business

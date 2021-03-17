@@ -16,7 +16,7 @@ Meeple Manor is a local store that has an e-commerce site that sells a variety o
 ### Problem Statement
 <p></p>
 
-#### For Customers
+#### For the Customers
 The primary pain point experienced by customers on this site is its *Information Architecture*. The logical grouping of games did not match the mental model of its patrons. A successful redesign will include improvements to how users find and discover board games.
 
 #### For the Business

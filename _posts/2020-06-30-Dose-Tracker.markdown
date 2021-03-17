@@ -5,9 +5,9 @@ categories: [UX]
 tags: [Concept Design]
 image: Dose-Tracker/dosetrackerhero.png
 ---
-### Concept design
+### Concept Design
 
-Dose tracker is a concept design aimed at assisting users with when and if they have taken their meds.
+Dose Tracker is a concept design aimed at assisting people with taking medications and/or vitamins to track when and if they have been taken.
 
 
 ![Intro-pic](/images/Dose-Tracker/dosetrackerhero.png)
